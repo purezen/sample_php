@@ -3,6 +3,4 @@ language: php
 php: 
   - 5.3
   
-archive: true
-
 script: true
